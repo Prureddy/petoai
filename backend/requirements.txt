@@ -1,0 +1,15 @@
+streamlit
+chromadb
+google-generativeai
+fastapi
+uvicorn
+python-dotenv
+pydantic
+aiosqlite
+langchain
+langchain-community
+pypdf
+langchain_experimental
+langchain_google_genai
+pypdf2
+
